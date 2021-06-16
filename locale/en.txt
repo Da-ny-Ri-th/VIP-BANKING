@@ -1,0 +1,42 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = VIP BANKING
+
+## Skin
+
+### Button
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, VIP BANKING
+
+## Media
+
+### Title
+map_08C9CE18_143A_EC23_41B4_1BE6248550F1.label = VIP Banking Layout
+panorama_1DB162A2_1439_D4E0_4192_1B9189289E8C.label = B
+panorama_1DB18529_143A_3DE0_41AF_61B57AFFFA78.label = C
+panorama_1DB4751C_143A_5DA7_416F_04A6835D51CD.label = 3
+panorama_1DB4E327_143A_55E0_4196_98CE3117F5C6.label = 5
+panorama_1DB505EA_143A_3C60_41A6_9F1168160F98.label = 6
+panorama_1DB57266_143A_F463_418A_A11E35C1F5D1.label = 4
+panorama_1DB64A90_143E_54A0_41B2_5B8DA7667F68.label = 10
+panorama_1DB661DF_143E_34A0_41A6_8FDEC8D68095.label = 9
+panorama_1DB6A555_143E_7DA0_41B1_2740A091886A.label = A
+panorama_1DB76693_143E_7CA0_41AE_7B2F6E059A7F.label = 7
+panorama_1DB788D0_143A_54BF_418F_62C667374C03.label = 2
+panorama_1DB7C2AB_143E_54E1_41B0_BDB1876A1846.label = 8
+panorama_1EBEA94F_143A_55A2_41B0_F04F3D18794F.label = 1
+
+## Action
+
+### URL
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc
